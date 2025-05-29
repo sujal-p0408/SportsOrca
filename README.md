@@ -58,3 +58,9 @@ This application uses the API-Football service from RapidAPI:
 - Backend: Node.js with Express
 - API: API-Football (RapidAPI)
 - Styling: CSS3 
+
+## Project Output
+
+Here is a screenshot of the running application displaying the upcoming matches:
+
+![Screenshot of the application frontend](assets/image.png) 
